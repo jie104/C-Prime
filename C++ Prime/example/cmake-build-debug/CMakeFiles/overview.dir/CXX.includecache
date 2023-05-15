@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/bulk_quote.hpp
+string
+-
+iostream
+-
+quote.hpp
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/quote.hpp
+
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/derived_quote.hpp
+iostream
+-
+string
+-
+quote.hpp
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/quote.hpp
+
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/quote.hpp
+string
+-
+iostream
+-
+
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/overview.cpp
+string
+-
+iostream
+-
+include/bulk_quote.hpp
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/bulk_quote.hpp
+include/derived_quote.hpp
+/home/zxj/learngit/C++ Prime/example/15-object_oriented_programming/include/derived_quote.hpp
+memory
+-
+

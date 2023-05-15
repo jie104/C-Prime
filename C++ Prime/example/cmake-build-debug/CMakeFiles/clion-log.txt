@@ -1,0 +1,4 @@
+/home/zxj/下载/CLion-2021.1.3/clion-2021.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/zxj/learngit/C++ Prime/example"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zxj/learngit/C++ Prime/example/cmake-build-debug

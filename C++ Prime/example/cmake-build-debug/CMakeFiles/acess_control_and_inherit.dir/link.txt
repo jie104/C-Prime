@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/acess_control_and_inherit.dir/15-object_oriented_programming/acess_control_and_inherit.cpp.o -o acess_control_and_inherit 

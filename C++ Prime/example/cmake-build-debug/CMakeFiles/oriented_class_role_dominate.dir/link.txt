@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/oriented_class_role_dominate.dir/15-object_oriented_programming/oriented_class_role_dominate.cpp.o -o oriented_class_role_dominate 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/main_node.dir/12-dynamic_memory/main.cpp.o  -o main_node  -Wl,-rpath,/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host libTextQuery.so 

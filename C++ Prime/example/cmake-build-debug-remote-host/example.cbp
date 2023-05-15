@@ -1,0 +1,2979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="example"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constructed_function_and_copy_control">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constructed_function_and_copy_control" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constructed_function_and_copy_control"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constructed_function_and_copy_control/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constructed_function_and_copy_control" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constructed_function_and_copy_control/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="for">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/for" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 for"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="for/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/for" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 for/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_template">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/class_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 class_template"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_template/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/class_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 class_template/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="access_control_and_Encapsulation">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/access_control_and_Encapsulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 access_control_and_Encapsulation"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="access_control_and_Encapsulation/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/access_control_and_Encapsulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 access_control_and_Encapsulation/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11111">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/11111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 11111"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11111/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/11111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 11111/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="debug_help">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/debug_help" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 debug_help"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="debug_help/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/debug_help" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 debug_help/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constexpr_function">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constexpr_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constexpr_function"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constexpr_function/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constexpr_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constexpr_function/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array_point">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/array_point" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 array_point"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array_point/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/array_point" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 array_point/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array_form_parameter">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/array_form_parameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 array_form_parameter"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array_form_parameter/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/array_form_parameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 array_form_parameter/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reference_parameter">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/reference_parameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 reference_parameter"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reference_parameter/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/reference_parameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 reference_parameter/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="associate_containers_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/associate_containers_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 associate_containers_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="associate_containers_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/associate_containers_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 associate_containers_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_object">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/local_object" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 local_object"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_object/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/local_object" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 local_object/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_pointer">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_pointer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_pointer/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iostream_iterator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iostream_iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iostream_iterator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iostream_iterator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iostream_iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iostream_iterator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_13">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/example_13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 example_13"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_13/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/example_13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 example_13/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eigen">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/eigen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 eigen"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eigen/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/eigen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 eigen/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_container_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/order_container_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 order_container_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="order_container_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/order_container_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 order_container_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unorder_container">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/unorder_container" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 unorder_container"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unorder_container/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/unorder_container" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 unorder_container/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_control_sample">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_control_sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_control_sample"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_control_sample/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_control_sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_control_sample/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 string"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 string/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector_obj_how_to_increase">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/vector_obj_how_to_increase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 vector_obj_how_to_increase"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector_obj_how_to_increase/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/vector_obj_how_to_increase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 vector_obj_how_to_increase/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 Vector"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Vector/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Vector" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 Vector/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="comma_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/comma_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 comma_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="comma_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/comma_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 comma_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="revisit_iterator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/revisit_iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 revisit_iterator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="revisit_iterator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/revisit_iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 revisit_iterator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iterator1">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iterator1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iterator1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iterator1/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iterator1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iterator1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_base">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_base"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_base/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_base/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="initializer_list">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/initializer_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 initializer_list"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="initializer_list/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/initializer_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 initializer_list/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inbuilt_array2">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/inbuilt_array2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 inbuilt_array2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inbuilt_array2/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/inbuilt_array2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 inbuilt_array2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="use_associate_containers">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/use_associate_containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 use_associate_containers"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="use_associate_containers/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/use_associate_containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 use_associate_containers/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="define_template">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/define_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 define_template"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="define_template/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/define_template" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 define_template/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_match">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_match" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_match"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="function_match/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/function_match" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 function_match/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="switch">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/switch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 switch"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="switch/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/switch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 switch/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_file">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_file"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_file/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_file/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="acess_control_and_inherit">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/acess_control_and_inherit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 acess_control_and_inherit"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="acess_control_and_inherit/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/acess_control_and_inherit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 acess_control_and_inherit/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="implicit_convert">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/implicit_convert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 implicit_convert"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="implicit_convert/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/implicit_convert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 implicit_convert/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="container_lib_overview">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/container_lib_overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 container_lib_overview"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="container_lib_overview/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/container_lib_overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 container_lib_overview/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="expression">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/expression" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 expression"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="expression/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/expression" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 expression/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constructor_function_refind">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constructor_function_refind" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constructor_function_refind"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="constructor_function_refind/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/constructor_function_refind" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 constructor_function_refind/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intergral_promotion">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/intergral_promotion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 intergral_promotion"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intergral_promotion/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/intergral_promotion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 intergral_promotion/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_other_feature">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/class_other_feature" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 class_other_feature"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_other_feature/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/class_other_feature" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 class_other_feature/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="statement">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/statement" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 statement"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="statement/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/statement" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 statement/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_memory_management_class">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_memory_management_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_memory_management_class"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_memory_management_class/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_memory_management_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_memory_management_class/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="entrust_constructor_function">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/entrust_constructor_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 entrust_constructor_function"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="entrust_constructor_function/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/entrust_constructor_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 entrust_constructor_function/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exception">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/exception" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 exception"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exception/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/exception" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 exception/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_class">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_class"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_class/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_class/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_assigment_destroyed">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_assigment_destroyed" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_assigment_destroyed"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_assigment_destroyed/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_assigment_destroyed" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_assigment_destroyed/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_string">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_string"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IO_string/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/IO_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 IO_string/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_other_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/string_other_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 string_other_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_other_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/string_other_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 string_other_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iterator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iterator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iterator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/iterator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 iterator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="container_adapter">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/container_adapter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 container_adapter"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="container_adapter/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/container_adapter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 container_adapter/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="acquaintance_generic_algorithms">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/acquaintance_generic_algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 acquaintance_generic_algorithms"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="acquaintance_generic_algorithms/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/acquaintance_generic_algorithms" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 acquaintance_generic_algorithms/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="customize_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/customize_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 customize_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="customize_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/customize_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 customize_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_arrays">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_arrays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_arrays"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_arrays/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_arrays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_arrays/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="associate_containers_overview">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/associate_containers_overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 associate_containers_overview"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="associate_containers_overview/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/associate_containers_overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 associate_containers_overview/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_assigment_operator">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_assigment_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_assigment_operator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="copy_assigment_operator/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/copy_assigment_operator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 copy_assigment_operator/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StrBlob">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/libStrBlob.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 StrBlob"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StrBlob/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/libStrBlob.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 StrBlob/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_node">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/main_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 main_node"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_node/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/main_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 main_node/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_memory_and_technique_ptr">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_memory_and_technique_ptr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_memory_and_technique_ptr"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_memory_and_technique_ptr/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/dynamic_memory_and_technique_ptr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 dynamic_memory_and_technique_ptr/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextQuery">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/libTextQuery.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 TextQuery"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextQuery/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/libTextQuery.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 TextQuery/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="define_abstract_data_type">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/define_abstract_data_type" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 define_abstract_data_type"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="define_abstract_data_type/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/define_abstract_data_type" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 define_abstract_data_type/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overview">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 overview"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overview/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/overview" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 overview/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oriented_class_role_dominate">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/oriented_class_role_dominate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 oriented_class_role_dominate"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oriented_class_role_dominate/fast">
+				<Option output="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/oriented_class_role_dominate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 oriented_class_role_dominate/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/tmp/tmp.BEahKwdCRO/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/10-generic_algorithms/acquaintance_generic_algorithms.cpp">
+			<Option target="acquaintance_generic_algorithms"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/10-generic_algorithms/customize_operator.cpp">
+			<Option target="customize_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/10-generic_algorithms/iostream_iterator.cpp">
+			<Option target="iostream_iterator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/10-generic_algorithms/revisit_iterator.cpp">
+			<Option target="revisit_iterator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/11-associative_containers/associate_containers_operator.cpp">
+			<Option target="associate_containers_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/11-associative_containers/associate_containers_overview.cpp">
+			<Option target="associate_containers_overview"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/11-associative_containers/unorder_container.cpp">
+			<Option target="unorder_container"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/11-associative_containers/use_associate_containers.cpp">
+			<Option target="use_associate_containers"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/11111.cpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/12-dynamic_memory/StrBlob.cpp">
+			<Option target="StrBlob"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/12-dynamic_memory/TextQuery.cpp">
+			<Option target="TextQuery"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/12-dynamic_memory/dynamic_arrays.cpp">
+			<Option target="dynamic_arrays"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/12-dynamic_memory/dynamic_memory_and_technique_ptr.cpp">
+			<Option target="dynamic_memory_and_technique_ptr"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/12-dynamic_memory/main.cpp">
+			<Option target="main_node"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/13-copy_control/copy_assigment_destroyed.cpp">
+			<Option target="copy_assigment_destroyed"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/13-copy_control/copy_assigment_operator.cpp">
+			<Option target="copy_assigment_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/13-copy_control/copy_control_sample.cpp">
+			<Option target="copy_control_sample"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/13-copy_control/dynamic_memory_management_class.cpp">
+			<Option target="dynamic_memory_management_class"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/13-copy_control/obj_move.cpp">
+			<Option target="copy_assigment_destroyed"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/14-overloadOperation_and_typeConvert/base_concept.cpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/acess_control_and_inherit.cpp">
+			<Option target="11111"/>
+			<Option target="acess_control_and_inherit"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/constructed_function_and_copy_control.cpp">
+			<Option target="constructed_function_and_copy_control"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/include/bulk_quote.hpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/include/derived_quote.hpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/include/disc_quote.hpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/include/quote.hpp">
+			<Option target="11111"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/oriented_class_role_dominate.cpp">
+			<Option target="oriented_class_role_dominate"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/15-object_oriented_programming/overview.cpp">
+			<Option target="11111"/>
+			<Option target="overview"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/16-template_and_generic_programming/class_template.cpp">
+			<Option target="class_template"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/16-template_and_generic_programming/define_template.cpp">
+			<Option target="define_template"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/array_form_parameter.cpp">
+			<Option target="array_form_parameter"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/array_point.cpp">
+			<Option target="array_point"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/constexpr_function.cpp">
+			<Option target="constexpr_function"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/debug_help.cpp">
+			<Option target="debug_help"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/function_base.cpp">
+			<Option target="function_base"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/function_match.cpp">
+			<Option target="function_match"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/function_pointer.cpp">
+			<Option target="function_pointer"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/initializer_list.cpp">
+			<Option target="initializer_list"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/6-function/local_object.cpp">
+			<Option target="local_object"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/7-class/access_control_and_Encapsulation.cpp">
+			<Option target="access_control_and_Encapsulation"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/7-class/class_other_feature.cpp">
+			<Option target="class_other_feature"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/7-class/constructor_function_refind.cpp">
+			<Option target="constructor_function_refind"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/7-class/define_abstract_data_type.cpp">
+			<Option target="define_abstract_data_type"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/7-class/entrust_constructor_function.cpp">
+			<Option target="entrust_constructor_function"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/8-IO_lib/IO_class.cpp">
+			<Option target="IO_class"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/8-IO_lib/IO_file.cpp">
+			<Option target="IO_file"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/8-IO_lib/IO_string.cpp">
+			<Option target="IO_string"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/9-order_container/container_adapter.cpp">
+			<Option target="container_adapter"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/9-order_container/container_lib_overview.cpp">
+			<Option target="container_lib_overview"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/9-order_container/order_container_operator.cpp">
+			<Option target="order_container_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/9-order_container/string_other_operator.cpp">
+			<Option target="string_other_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/9-order_container/vector_obj_how_to_increase.cpp">
+			<Option target="vector_obj_how_to_increase"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/Vector.cpp">
+			<Option target="Vector"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/comma_operator.cpp">
+			<Option target="comma_operator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/eigen.cpp">
+			<Option target="eigen"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/example_13.cpp">
+			<Option target="example_13"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/exception.cpp">
+			<Option target="exception"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/expression.cpp">
+			<Option target="expression"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/for.cpp">
+			<Option target="for"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/implicit_convert.cpp">
+			<Option target="implicit_convert"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/inbuilt_array2.cpp">
+			<Option target="inbuilt_array2"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/intergral_promotion.cpp">
+			<Option target="intergral_promotion"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/iterator.cpp">
+			<Option target="iterator"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/iterator1.cpp">
+			<Option target="iterator1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/reference_parameter.cpp">
+			<Option target="reference_parameter"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/statement.cpp">
+			<Option target="statement"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/string.cpp">
+			<Option target="string"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/switch.cpp">
+			<Option target="switch"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.BEahKwdCRO/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
